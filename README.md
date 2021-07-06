@@ -1,5 +1,5 @@
 ### Hi there ,I am Kavindya👋👋👋
-### I'm Undergraduate at UCSC
+I'm Undergraduate at UCSC
  - 🔭 I’m currently working on something cool!
  - 🌱 I’m currently learning everything😊
  - 🥅 2021 Goals: Contribute more to Open Source projects
