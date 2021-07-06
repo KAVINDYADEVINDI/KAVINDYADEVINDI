@@ -28,7 +28,7 @@ I'm Undergraduate at UCSC
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<br />
+<br></br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KAVINDYADEVINDI&show_icons=true&hide_border=true&icon_color=32a836">
 <img align="center" src="https://camo.githubusercontent.com/09052184451649d6ecea9a14428b3336d0da6977669057b44329ebb8356ac497/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d706177616e267468656d653d6c6967687426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINDYADEVINDI&amp;theme=light&amp;hide_langs_below=1" style="max-width:100%;">
 
