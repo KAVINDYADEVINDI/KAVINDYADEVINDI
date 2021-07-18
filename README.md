@@ -6,7 +6,8 @@ I'm Undergraduate at UCSC
  - 💬 Ask me about GitHub
  - 💼 any freelance work? do reach, [email](mailto:kavindyadevindi038@gmail.com) :)
 <img align="center" src="https://media.tenor.com/images/dc7b150c8b23de1b0ff3f7be77679000/tenor.gif" width="400px" idth="400px">
-### Contact me...
+
+###Contact me...
 <a href="https://www.linkedin.com/in/kavindya-devindi-29860a1a7/" rel="nofollow">
   <img align="left" alt="Kavindya's Linkdein" width="22px" height="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
 </a>
