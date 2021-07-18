@@ -5,7 +5,8 @@ I'm Undergraduate at UCSC
  - 🥅 2021 Goals: Contribute more to Open Source projects
  - 💬 Ask me about GitHub
  - 💼 any freelance work? do reach, [email](mailto:kavindyadevindi038@gmail.com) :)
-<img align="center" src="https://media.tenor.com/images/dc7b150c8b23de1b0ff3f7be77679000/tenor.gif" width="400px" height="400px">
+<img align="center" src="https://media.tenor.com/images/dc7b150c8b23de1b0ff3f7be77679000/tenor.gif" width="400px"/>
+
 <br></br>
 ### Contact me...
 <a href="https://www.linkedin.com/in/kavindya-devindi-29860a1a7/" rel="nofollow">
