@@ -10,7 +10,7 @@ I'm Undergraduate at UCSC
   <img align="left" alt="Kavindya's Linkdein" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">
 </a>
 <a href="https://github.com/KAVINDYADEVINDI">
-  <img align="left" alt="Kavindya's Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfolio.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
+  <img align="left" alt="Kavindya's Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/user.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" style="max-width:100%;">
 </a>
 <a href="https://www.facebook.com/kavindya.devindi.319" rel="nofollow">
   <img align="left" alt="Kavindya's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width:100%;">
