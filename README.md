@@ -1,6 +1,6 @@
 ### Hi there ,I am Kavindya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm Undergraduate at UCSC
- - 🔭 I’m currently working on something cool!
+ - 🔭 I’m currently working on something cool! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  - 🌱 I’m currently learning everything😊
  - 🥅 2021 Goals: Contribute more to Open Source projects
  - 💬 Ask me about GitHub
@@ -27,5 +27,5 @@ I'm Undergraduate at UCSC
 
 <br></br>
 <img align="left" alt="kavindya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KAVINDYADEVINDI&show_icons=true&icon_color=32a836&theme=gotham">
-<img align="center" src="https://camo.githubusercontent.com/09052184451649d6ecea9a14428b3336d0da6977669057b44329ebb8356ac497/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d706177616e267468656d653d6c6967687426686964655f6c616e67735f62656c6f773d31" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINDYADEVINDI&theme=gotham&hide_langs_below=1" style="max-width:100%;">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAVINDYADEVINDI&theme=gotham&hide_langs_below=1" style="max-width:100%;">
 
